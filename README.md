@@ -20,5 +20,5 @@ Backend Task
 **Question**
 
 What is the difference between MongoDB and MySql?
-1. MongoDB have a write to disk faster than MySql.
-2. If you don't read(write only) MongoDB use a resource less than MySql.
+- MongoDB have a write to disk faster than MySql.
+- if you don't read(write only) MongoDB use a resource less than MySql.
